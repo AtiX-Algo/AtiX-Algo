@@ -1,0 +1,50 @@
+<svg viewBox="0 0 520 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barFill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4d0000"/>
+      <stop offset="100%" stop-color="#ff1e1e"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="520" height="220" fill="#050000"/>
+
+  <!-- CPU USAGE 78% -->
+  <text x="10" y="34" font-family="'Courier New',monospace" font-size="15" fill="#e5e5e5" letter-spacing="1">CPU USAGE</text>
+  <text x="480" y="34" font-family="'Courier New',monospace" font-size="15" fill="#ff1e1e" text-anchor="end">78%</text>
+  <rect x="0" y="42" width="320" height="10" rx="5" fill="#1a0000" transform="translate(10,0)"/>
+  <rect x="0" y="42" width="0" height="10" rx="5" fill="url(#barFill)" filter="url(#glow)" transform="translate(10,0)">
+    <animate attributeName="width" from="0" to="249.6" dur="1.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.2s" begin="1.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- MEMORY 64% -->
+  <text x="10" y="84" font-family="'Courier New',monospace" font-size="15" fill="#e5e5e5" letter-spacing="1">MEMORY</text>
+  <text x="480" y="84" font-family="'Courier New',monospace" font-size="15" fill="#ff1e1e" text-anchor="end">64%</text>
+  <rect x="10" y="92" width="320" height="10" rx="5" fill="#1a0000"/>
+  <rect x="10" y="92" width="0" height="10" rx="5" fill="url(#barFill)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="204.8" dur="1.6s" begin="0.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- FOCUS 99% -->
+  <text x="10" y="134" font-family="'Courier New',monospace" font-size="15" fill="#e5e5e5" letter-spacing="1">FOCUS</text>
+  <text x="480" y="134" font-family="'Courier New',monospace" font-size="15" fill="#ff1e1e" text-anchor="end">99%</text>
+  <rect x="10" y="142" width="320" height="10" rx="5" fill="#1a0000"/>
+  <rect x="10" y="142" width="0" height="10" rx="5" fill="url(#barFill)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="316.8" dur="1.6s" begin="0.4s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.7;1" dur="2s" begin="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- COFFEE 100% -->
+  <text x="10" y="184" font-family="'Courier New',monospace" font-size="15" fill="#e5e5e5" letter-spacing="1">COFFEE</text>
+  <text x="480" y="184" font-family="'Courier New',monospace" font-size="15" fill="#ff1e1e" text-anchor="end">100%</text>
+  <rect x="10" y="192" width="320" height="10" rx="5" fill="#1a0000"/>
+  <rect x="10" y="192" width="0" height="10" rx="5" fill="url(#barFill)" filter="url(#glow)">
+    <animate attributeName="width" from="0" to="320" dur="1.6s" begin="0.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.65;1" dur="1.8s" begin="2.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
