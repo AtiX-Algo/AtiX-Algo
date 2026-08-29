@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/dragon-katana.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/hero-glitch.svg" width="100%"/>
 
 </div>
 
-<br/>
+<!-- <br/>
 
 <!-- ============ HERO ============ -->
-<table>
+<!-- <table>
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/hero-glitch.svg" width="100%"/>
@@ -18,11 +18,11 @@
   ============ IMAGE NEEDED: hero-gun.png ============
   See the image brief in the chat reply for size + prompt.
 -->
-<img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/assets/hero-gun.png" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/assets/hero-gun.png" width="100%"/>
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <div align="center">
 
