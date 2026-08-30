@@ -137,7 +137,20 @@ alt="System Core"
 </td>
 
 </tr>
+
+<div align="center">
+
+<h3>› CONTRIBUTION MATRIX</h3>
+
+<img
+  src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
 </table>
+
 
 <img src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/stream-divider.svg" width="100%" />
 
