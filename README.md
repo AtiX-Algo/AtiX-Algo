@@ -109,7 +109,7 @@ alt="GitHub Activity Graph"
 <br/><br/>
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=AtiX-Algo&theme=dark&background=000000&ring=FF1E1E&fire=FF1E1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF1E1E&sideLabels=ffffff&border=FF1E1E&dates=888888"
+src="https://streak-stats.demolab.com/?user=AtiX-Algo&theme=dark&background=000000&ring=FF1E1E&fire=FF1E1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF1E1E&sideLabels=ffffff&border=FF1E1E&dates=888888"
 width="100%"
 alt="GitHub Streak Stats"
 />
@@ -121,16 +121,16 @@ alt="GitHub Streak Stats"
 <h3>› SYSTEM STATUS</h3>
 
 <img
-  src="https://streak-stats.demolab.com/?user=AtiX-Algo&theme=dark&background=000000&ring=FF1E1E&fire=FF1E1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FF1E1E&sideLabels=ffffff&border=FF1E1E&dates=888888"
-  width="100%"
-  alt="GitHub Streak Stats"
+src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/status-bars.svg"
+width="100%"
+alt="System Status Bars"
 />
 
 <!-- Optional system cube
 <img
-  src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/assets/system-cube.png"
-  width="100%"
-  alt="System Core"
+src="https://raw.githubusercontent.com/AtiX-Algo/AtiX-Algo/main/assets/system-cube.png"
+width="100%"
+alt="System Core"
 />
 -->
 
